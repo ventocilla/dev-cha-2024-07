@@ -1,4 +1,4 @@
-# Projeto: Configuração de Servidor na Nuvem com Terraform
+# Projeto: Configuração de Servidor na Nuvem com Terraform, Ansible e Pipeline Jenkins
 
 Este projeto tem como objetivo configurar um servidor na nuvem utilizando a AWS, instalar e configurar componentes essenciais, e implementar uma infraestrutura como código com Terraform. Além disso, será criada uma pipeline de entrega contínua para a aplicação de monitorização.
 
